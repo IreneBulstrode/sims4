@@ -1,5 +1,7 @@
    [000B] 0xE8FE8A3A: Sell Residential Rental
    [000C] 0x730AF79C: Grace Period is Active
-   [000D] 0xDB857CCD: Lease Renewing Soon!
    [000E] 0x0F9A5856: Overdue Rent: {0.Money}
    [000F] 0xBE595F54: Rent Per Day: {0.Money}
+   [0010] 0xECDB230D: {0.Number} {S0.Rule}{P0.Rules} Broken
+   [0011] 0xA7AFDE5E: UNIT UNOCCUPIED
+   [0012] 0x1245E017: Daily Rental Income: {0.Money}
